@@ -1,0 +1,2 @@
+# QTrainingSD
+q Training code
